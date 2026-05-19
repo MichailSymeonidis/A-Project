@@ -1,1 +1,1 @@
-# A-Project
+This project implements the A* pathfinding algorithm in C. It generates a random grid with obstacles and searches for a path from the top-left corner to the bottom-right corner. The algorithm uses Manhattan distance as a heuristic and a priority queue based on a min-heap to efficiently select the next node with the lowest total cost.
